@@ -24,7 +24,7 @@
 - **KHÔNG** "chấm" (".") hoặc "hóng", hãy dùng chức năng "Bật thông báo cho bài viết" hoặc "Lưu bài viết" nếu bạn muốn theo dõi cập nhật của bài viết.
 - **KHÔNG** spam, dùng chức năng "Sửa bình luận" thay vì bình luận liên tiếp trong thời gian ngắn.
 
-                                            ## HY VỌNG CÁC BẠN THỰC HIỆN ĐÚNG NỘI QUY NHÓM
-                                                               ---
+                                   ## HY VỌNG CÁC BẠN THỰC HIỆN ĐÚNG NỘI QUY NHÓM
+                                                      ---
 
-                                  Nội quy sẽ được sửa đổi, cập nhật theo thời gian sao cho phù hợp.
+                         Nội quy sẽ được sửa đổi, cập nhật theo thời gian sao cho phù hợp.
