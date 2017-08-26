@@ -1,6 +1,6 @@
 # D2TEAM
 
-Nội quy nhóm [J2TEAM](https://d2himlam.github.io/)
+Nội quy nhóm [D2TEAM](https://d2himlam.github.io/)
 
 ## Liên kết
 
@@ -10,8 +10,6 @@ Nội quy nhóm [J2TEAM](https://d2himlam.github.io/)
 - [Tra cứu thứ hạng - Xem bài đang hot trong tuần](http://code.junookyo.xyz/apps/j2team-community-ranking/index.php)
 
 ## Công cụ
-
-Các công cụ liệt kê dưới đây được đóng góp bởi cộng đồng:
 
 - [Tìm kiếm bài viết siêu tốc](http://www.j2teamdata.tk/) bởi [Long Đỗ](https://www.facebook.com/groups/j2team.community/permalink/418245055174287/)
 - [Index bài viết trong nhóm](http://phimchua.com/fb/) bởi [Vinh Chương](https://www.facebook.com/groups/j2team.community/permalink/420339644964828/)
