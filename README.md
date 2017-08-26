@@ -1,10 +1,9 @@
-# J2TeaM Community
+# D2TEAM
 
-Những điều mà bạn cần biết nếu muốn tham gia [J2TeaM Community](https://www.facebook.com/groups/j2team.community/)
+Nội quy nhóm [J2TEAM](https://d2himlam.github.io/)
 
 ## Liên kết
 
-- [Nội quy nhóm](rules.md)
 - [Hệ thống xếp hạng thành viên](rank.md)
 - [Các lệnh mà bot hỗ trợ](bot-commands.md)
 - [Nhóm chat trên Slack](https://j2team-community.slack.com/messages)
@@ -19,3 +18,6 @@ Các công cụ liệt kê dưới đây được đóng góp bởi cộng đồ
 - [Index, tìm kiếm bài viết trong nhóm](http://j2team.anlink.top/) bởi [Nguyen Huu Dat](https://www.facebook.com/groups/j2team.community/permalink/437008396631286/)
 - [Mã hóa, bảo vệ liên kết](http://anlink.top/) bởi [Nguyen Huu Dat](https://www.facebook.com/groups/j2team.community/permalink/423097854689007/)
 - [Mã hóa, bảo vệ liên kết](http://code.junookyo.xyz/j2team-community/) bởi [Juno_okyo](https://junookyo.blogspot.com/?utm_source=github)
+
+## Liên kết hay
+
