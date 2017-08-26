@@ -25,6 +25,6 @@
 - **KHÔNG** spam, dùng chức năng "Sửa bình luận" thay vì bình luận liên tiếp trong thời gian ngắn.
 
                                             ## HY VỌNG CÁC BẠN THỰC HIỆN ĐÚNG NỘI QUY NHÓM
-                                                                  ---
+                                                               ---
 
                                   Nội quy sẽ được sửa đổi, cập nhật theo thời gian sao cho phù hợp.
