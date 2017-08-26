@@ -27,4 +27,4 @@
                                             ## HY VỌNG CÁC BẠN THỰC HIỆN ĐÚNG NỘI QUY NHÓM
                                                           ---
 
-## Nội quy sẽ được sửa đổi, cập nhật theo thời gian sao cho phù hợp.
+                                  Nội quy sẽ được sửa đổi, cập nhật theo thời gian sao cho phù hợp.
