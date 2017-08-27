@@ -4,10 +4,10 @@ Nội quy nhóm [D2TEAM](https://d2himlam.github.io/)
 
 ## Liên kết
 
+- [Tra cứu thứ hạng - Xem bài đang hot trong tuần](http://fbcryptics.com/newsite/showrank.aspx?groupid=481503825545563)
 - [Hệ thống xếp hạng thành viên](rank.md)
 - [Các lệnh mà bot hỗ trợ](bot-commands.md)
 - [Nhóm chat trên Slack](https://j2team-community.slack.com/messages)
-- [Tra cứu thứ hạng - Xem bài đang hot trong tuần](http://code.junookyo.xyz/apps/j2team-community-ranking/index.php)
 
 ## Công cụ
 
