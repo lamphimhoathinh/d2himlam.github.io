@@ -24,6 +24,11 @@
 - **KHÔNG** "chấm" (".") hoặc "hóng", hãy dùng chức năng "Bật thông báo cho bài viết" hoặc "Lưu bài viết" nếu bạn muốn theo dõi cập nhật của bài viết.
 - **KHÔNG** spam, dùng chức năng "Sửa bình luận" thay vì bình luận liên tiếp trong thời gian ngắn.
 
+## XEM THÊM
+- [Tra cứu thứ hạng - Xem bài đang hot trong tuần](ranking-d2team.md)
+- [Đánh giá hoạt động group](hoatdong.md)
+
+
                                    ## HY VỌNG CÁC BẠN THỰC HIỆN ĐÚNG NỘI QUY NHÓM
                                                       ---
 
